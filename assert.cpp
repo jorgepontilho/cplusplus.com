@@ -7,7 +7,6 @@ int test_assert ( int x )
    assert( x <= 7 );
    return x;
 }
-
 int main ( void ) 
 {
     int i;
